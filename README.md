@@ -1,6 +1,7 @@
 # dataviz-exercises-ivan-logutov
 
-Weekly class exercises for **Python for Data Analysis & Visualization** (Winter 2026/27, Dr. Dina Deifallah) by Ivan Logutov.
+Weekly class exercises for **DSC02 Data Visualization 120C** (Winter 2026/27, Dr. Dina Deifallah) by Ivan Logutov.
+
 
 Class material: [dina-deifallah/data-viz-class-material-w2026](https://github.com/dina-deifallah/data-viz-class-material-w2026)
 
