@@ -12,3 +12,13 @@ weekXX/
   lectureXX_exercise.ipynb   ← Part 1 (Plotly), lectures 1–8
   lectureXX_exercise.py      ← Part 2 (Streamlit), lectures 9–14
 ```
+
+## Streamlit apps
+
+| Lecture | Live app | Code |
+|---|---|---|
+| 09 | [World Happiness dashboard](https://ivan-logutov-happiness.streamlit.app) | [week09/lecture09_exercise.py](week09/lecture09_exercise.py) |
+
+Free Streamlit apps go to sleep when nobody uses them. If you see a wake-up button, click it and wait for the app to start.
+
+![Lecture 09 World Happiness dashboard](week09/lecture09_dashboard.png)
