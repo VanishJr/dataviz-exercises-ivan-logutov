@@ -1,0 +1,4 @@
+# Always use the light theme: the charts are designed for a white background,
+# and a dark system setting would hide the dark labels and the highlighted bar
+[theme]
+base = "light"
